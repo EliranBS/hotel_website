@@ -98,9 +98,7 @@ p{
 color: #fff;
 }
 
-#navbar h1 {
   float: left;
-  padding-top: 20px
 }
 
 #navbar ul {
@@ -205,7 +203,6 @@ min-height: 100%;
 
 /* testimonials */
 #testimonials {
-  height: 600px;
   background: url('../img/test-bg.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
